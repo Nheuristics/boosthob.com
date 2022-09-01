@@ -1,0 +1,77 @@
+
+
+.marginTop3{
+    margin-top: 3%;
+}
+.marginTop5{
+    margin-top: 5%;
+}
+
+.marginTop15{
+    margin-top: 15%;
+}
+
+.marginLeft5{
+    margin-left: 5%;
+}
+
+.marginLeft3{
+    margin-left: 3%;
+}
+
+.marginLeft1{
+    margin-left: 1%;
+}
+
+
+.EC-HLine{
+    font-size: 100%;
+    font-family: Rajdhani,sans-serif;
+    font-weight: bold;
+}
+
+.EC-HLine-desc{
+    font-size: 120%;
+    font-family: Rajdhani,sans-serif;
+
+}
+
+.EC-LName{
+    font-size: 150%;
+    font-family: Rajdhani,sans-serif;
+    font-weight: bold;
+
+}
+
+.EC-hr{
+    color: #323b44;
+    width: 5%;
+
+}
+
+.EC-vr10{
+    height: 10rem !important;
+}
+.EC-vr1-span{
+    height: 1rem !important;
+    margin-left: 1rem;
+
+}
+
+.EC-hr-desc{
+    color: #323b44;
+    width: 100%;
+
+}
+
+.EC-starton{
+    font-weight: bold;
+}
+
+.EC-row:hover{
+    /* background-color: #ebebeb; */
+    border-radius: 2%;
+    box-shadow: rgb(0 0 0 / 50%) 0px 2px 4px 0px;
+
+}
+

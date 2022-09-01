@@ -1,0 +1,204 @@
+
+.marginTop20{
+    margin-top: 10%;
+}
+
+
+.HomeBanner{
+    height: 30rem;
+    width: auto;
+    background-color: #323b44;
+  
+}
+
+.color12{
+    background-color: red;
+    width: 30rem;
+    height: auto;
+}
+
+
+
+.teamwork-Banner{
+    height: 40rem;
+    width: auto;
+    background-color: #323b44;
+    /* background-color: red; */
+  /* background-color: #1d1729 ; */
+  /* background-color: #030525 ; */
+  /* background-color:#00d7ff ; */
+}
+
+
+
+.custom-container{
+    padding: 0% 15% 0% 15%;
+}
+
+.teamwork-healine{
+    
+    padding: 20% 0% 0% 0%;
+
+}
+.teamwork-healineDesc{
+    font-size: 120%;
+    /* text-transform: uppercase; */
+    /* color: #c87137; */
+    color: #1fbef6ff;
+    font-weight: bolder;
+    /* font-style: italic; */
+    /* font-family: Courier, monospace; */
+
+}
+.horizontalLine{
+    /* background-color: #c87137; */
+    /* background-color: #00d7ff; */
+    /* background-color: #1fbef6ff; */
+    height: 2px;
+    width: 50px;
+    margin-top: 4%;
+    /* margin-left: -10%; */
+
+}
+
+.teamwork-nextHeadline{
+    font-size: 200%;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: bolder;
+    font-family: Rajdhani,sans-serif;
+}
+
+
+.teamwork-nextHeadlineDesc{
+    margin-top: 10%;
+    font-size: 120%;
+    /* text-transform: uppercase; */
+    color: aliceblue;
+    /* font-weight: bolder; */
+    font-family: Rajdhani,sans-serif;
+}
+
+.teamwork-Bartag{
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 120%;
+    margin-top: 10%;
+    font-weight: bold;
+}
+.bg-success{
+    background-color: #c87137!important;
+
+}
+.teamwork-button_fwc_pa_banner{
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 15px;
+    
+    background-color: #1fbef6;
+    border-color: #1fbef6;
+    padding: 0.2rem 1.0rem;
+}
+
+/* 
+.progress-bar-striped{
+    background-image: linear-gradient(45deg,#030525 25%,transparent 25%,transparent 50%,#00d7ff 50%,#00d7ff 75%,transparent 75%,transparent);
+    transition: all 2000ms ease !important;
+}
+.progress-bar{
+    height: 0.5rem !important;
+    transition: all 2000ms ease !important;
+}
+.progress{
+    height: 0.5rem !important;
+    transition: all 2000ms ease !important;
+
+} */
+
+.teamwork-margin{
+    margin-top: 0%;
+    width: 75%;
+}
+
+.teamwork-img{
+    height: 100%;
+    width: 90%;
+    margin-left: 2%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.teamwork-MarginLeft{
+    padding: 8% 0% 0% 10%;
+
+}
+.teamwork-desc{
+    color: aliceblue;
+    font-size: 120%;
+    padding: 20% 0% 0% 0%;
+    font-family: Rajdhani,sans-serif;
+}
+
+.thsn-element-title{
+    color: aliceblue;
+    /* font-weight: bold; */
+    font-size: 150%;
+    font-family: Rajdhani,sans-serif;
+
+}
+
+.thsn-element-desc{
+    color: aliceblue;
+    font-family: Rajdhani,sans-serif;
+    /* font-weight: bold; */
+}
+
+.linePartition{
+    background-color: #1fbef6;
+    height: 1px;
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+.teamwork-checks{
+    margin-left: -15%;
+    margin-top: 50px;
+}
+
+.teamwork-checks li{
+    padding: 1% 0% 1% 1%;
+    color: #fff;
+
+}
+
+.teamwork-checks i{
+    background-color: #00d7ff;
+    color: #fff;
+    margin-right: 20px;
+    font-size: 14px;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.teamwork-tagcard{
+    border-radius: 10px 10px 10px 10px;
+    background-color: #030525;
+
+}
+.teamwork-releasingcard{
+    /* margin-left: 10%; */
+    margin-top: 50px;
+    background-color: #ddf0c1;
+    /* padding: 5% 5% 5% 5%; */
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.teamwork-Back{
+    height: 30rem;
+    width: 100%;
+    background-color: azure;
+    /* margin-top: -10%; */
+    /* position:static; */
+
+}

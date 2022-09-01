@@ -1,0 +1,264 @@
+
+.marginTop10{
+    margin-top: 10%;
+}
+
+
+.marginTop5{
+    margin-top: 5%;
+}
+
+
+.HomeBanner{
+    height: 30rem;
+    width: auto;
+    background-color: #323b44;
+  
+}
+
+.color12{
+    background-color: red;
+    width: 30rem;
+    height: auto;
+}
+
+.login-img-banner{
+    width: 10%;
+    height: auto;
+    /* margin-left: ; */
+}
+
+.loginBanner{
+    height: 40rem;
+    width: auto;
+    background-color: #323b44;
+    /* background-color: red; */
+  /* background-color: #1d1729 ; */
+  /* background-color: #030525 ; */
+  /* background-color:#00d7ff ; */
+}
+
+
+
+.logincustom-container{
+    padding: 0% 10% 0% 10%;
+}
+
+.loginhealine{
+    padding: 20% 0% 0% 0%;
+}
+
+.loginhealine5{
+    padding: 5% 0% 0% 0%;
+}
+
+.loginhealine3{
+    padding: 3% 0% 0% 0%;
+}
+
+.logingithubhealineDesc{
+    font-size: 120%;
+    text-transform: uppercase;
+    color: #1fbef6ff;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+.loginhealineDesc{
+    font-size: 120%;
+    /* text-transform: uppercase; */
+    /* color: #c87137; */
+    color: #1fbef6ff;
+    font-weight: bolder;
+    /* font-style: italic; */
+    /* font-family: Courier, monospace; */
+
+}
+.horizontalLine{
+    /* background-color: #c87137; */
+    /* background-color: #00d7ff; */
+    /* background-color: #1fbef6ff; */
+    height: 2px;
+    width: 50px;
+    margin-top: 4%;
+    /* margin-left: -10%; */
+
+}
+
+.nextHeadline{
+    font-size: 200%;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: bolder;
+    font-family: Rajdhani,sans-serif;
+}
+
+
+.nextHeadline120{
+    font-size: 120%;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: bolder;
+    font-family: Rajdhani,sans-serif;
+}
+
+.nextHeadline110{
+    font-size: 110%;
+    /* text-transform: uppercase; */
+    color: aliceblue;
+    text-align: center;
+    font-family: Rajdhani,sans-serif;
+}
+
+.loginBartag{
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 120%;
+    margin-top: 10%;
+    font-weight: bold;
+}
+.bg-success{
+    background-color: #c87137!important;
+
+}
+
+.loginbutton_fwc_pa_banner{
+    text-decoration: none;
+  /* color: #302c38; */
+  /* margin-left: 50px; */
+  font-weight: bold;
+  font-size: 15px;
+  background-color: #1fbef6;
+  /* border-color: #faf2ea; */
+  border-color: #1fbef6;
+  padding: 0.2rem 1.0rem;
+}
+
+.login_a_fwc_pa_banner{
+    text-decoration: none;
+  font-weight: bold;
+  color: #1fbef6;
+  font-size: 15px;
+}
+
+.login_p_fwc_pa_banner{
+    text-decoration: none;
+  color: azure;
+  font-size: 15px;
+}
+
+.github_button_fwc_pa_banner{
+  text-decoration: none;
+  font-size: 150%;
+  width: 40%;
+  height: auto;
+  /* background-color: #1fbef6; */
+  background-color: #323b44;
+  /* border-color: #ff8103; */
+  border-color: #1fbef6;
+  padding: 0.2rem 1.0rem;
+}
+
+/* 
+.progress-bar-striped{
+    background-image: linear-gradient(45deg,#030525 25%,transparent 25%,transparent 50%,#00d7ff 50%,#00d7ff 75%,transparent 75%,transparent);
+    transition: all 2000ms ease !important;
+}
+.progress-bar{
+    height: 0.5rem !important;
+    transition: all 2000ms ease !important;
+}
+.progress{
+    height: 0.5rem !important;
+    transition: all 2000ms ease !important;
+
+} */
+
+.login-margin{
+    margin-top: 0%;
+    width: 75%;
+}
+
+.login-img{
+    height: 100%;
+    width: 90%;
+    margin-left: 2%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.loginMarginLeft{
+    padding: 8% 0% 0% 10%;
+
+}
+.logindesc{
+    color: aliceblue;
+    font-size: 120%;
+    padding: 20% 0% 0% 0%;
+    font-family: Rajdhani,sans-serif;
+}
+
+.thsn-element-title{
+    color: aliceblue;
+    /* font-weight: bold; */
+    font-size: 150%;
+    font-family: Rajdhani,sans-serif;
+
+}
+
+.thsn-element-desc{
+    color: aliceblue;
+    font-family: Rajdhani,sans-serif;
+    /* font-weight: bold; */
+}
+
+.linePartition{
+    background-color: #1fbef6;
+    height: 1px;
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+.loginchecks{
+    margin-left: -15%;
+    margin-top: 50px;
+}
+
+.loginchecks li{
+    padding: 1% 0% 1% 1%;
+    color: #fff;
+
+}
+
+.loginchecks i{
+    background-color: #00d7ff;
+    color: #fff;
+    margin-right: 20px;
+    font-size: 14px;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.logintagcard{
+    border-radius: 10px 10px 10px 10px;
+    background-color: #030525;
+
+}
+.loginreleasingcard{
+    /* margin-left: 10%; */
+    margin-top: 50px;
+    background-color: #ddf0c1;
+    /* padding: 5% 5% 5% 5%; */
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.loginBack{
+    height: 30rem;
+    width: 100%;
+    background-color: azure;
+    /* margin-top: -10%; */
+    /* position:static; */
+
+}

@@ -1,0 +1,49 @@
+
+
+.marginTop3{
+    margin-top: 3%;
+}
+.marginTop5{
+    margin-top: 5%;
+}
+
+.CT-HLine{
+    font-size: 200%;
+    font-family: Rajdhani,sans-serif;
+
+}
+.CT-LName{
+    font-size: 100%;
+    font-family: Rajdhani,sans-serif;
+    font-weight: bold;
+
+}
+
+.CT-L-desc{
+    font-size: 100%;
+    font-kerning: auto;
+    text-justify: auto;
+    text-align: justify;
+    text-align: left;
+    margin-top: 10%;
+    font-family: Rajdhani,sans-serif;
+}
+
+.CT-custom-card{
+    /* background-color: red; */
+    width: 100%;
+    height: auto;
+    padding: 10% 10% 10% 10%;
+    box-shadow: rgb(0 167 255 / 10%) 0px 0px 0px 2px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.CT-custom-card:hover{
+    padding: 10% 10% 10% 10%;
+    box-shadow: rgb(0 167 255 / 50%) 10px 10px 10px 10px;
+    transition: box-shadow 1s ease 0s
+
+
+
+}

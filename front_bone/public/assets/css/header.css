@@ -1,0 +1,51 @@
+nav.bg-light {
+    background-color: blue !important;
+}
+/* ******************************* CSS******************************************************** */
+/* 
+div.navbar {
+    background-color: #ffccff !important;
+    font-weight: 500 !important;
+    font-size: 15px !important;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background: #f2f2f2 !important;
+
+} */
+
+.fwc_pa {
+    /* font white color on p and a */
+    text-decoration: none;
+    color: #996633;
+    margin-left: 50px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.margin-right-40 {
+    margin-right: 40%;
+}
+
+.navbar-nav a:hover {
+    /* color: #bd6f29; */
+    color: #996633;
+    text-decoration: none;
+
+}
+
+.separator {
+    margin-bottom: 15px;
+    position: relative;
+    width: 250px;
+    height: 5px;
+    background: linear-gradient(to right, #3fb698 25%, #9aecd8 100%);
+}
+
+.centered {
+    text-align: center !important;
+}
+
+.bold{
+    font-weight:bolder;
+}
